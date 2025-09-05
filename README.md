@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gunjal</h1>
-<h3 align="center">I am passionate AI and ML</h3>
+<h3 align="center">I am passionate AI and ML Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgunjal95&label=Profile%20views&color=0e75b6&style=flat" alt="yashgunjal95" /> </p>
 
