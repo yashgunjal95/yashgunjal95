@@ -94,7 +94,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashgunjal95/yashgunjal95/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yashgunjal95/yashgunjal95/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
