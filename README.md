@@ -49,19 +49,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgunjal95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgunjal95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgunjal95&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
